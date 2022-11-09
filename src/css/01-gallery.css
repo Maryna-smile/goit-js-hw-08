@@ -12,6 +12,7 @@
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
+  list-style: none;
 }
 
 .gallery__item {
@@ -35,6 +36,7 @@
   display: block;
   text-decoration: none;
   height: 100%;
+  list-style: none;
 }
 
 .gallery__link:hover {
